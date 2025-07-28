@@ -45,6 +45,8 @@ Answer:.php
 What extension is allowed after running the above exercise?
 
 Answer:.phtml
+<img width="1414" height="928" alt="Screenshot 2025-07-27 105359" src="https://github.com/user-attachments/assets/e2b9c438-9ff2-4146-8846-9d43ebc950e4" />
+
 
 What is the name of the user who manages the webserver?
 
@@ -57,6 +59,8 @@ Answer:8bd7992fbe8a6ad22a63361004cfcedb
 <img width="668" height="443" alt="image" src="https://github.com/user-attachments/assets/d08e0bde-4222-42ca-a7a8-9d6140c3087e" />
 
 On the system, search for all SUID files. Which file stands out?
+<img width="686" height="327" alt="Screenshot 2025-07-27 105741" src="https://github.com/user-attachments/assets/4809b4d9-ffd2-41a9-8f40-f349978a747b" />
+<img width="632" height="357" alt="Screenshot 2025-07-27 110224" src="https://github.com/user-attachments/assets/cbc24337-cbeb-4b96-813d-8156fa8f3d3b" />
 
 Answer:/bin/systemctl
 
